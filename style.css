@@ -1,0 +1,94 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+ background-color: #fcfcfc;
+ font-family: Arial, Helvetica, sans-serif;
+}
+header{
+ display: flex;
+ width: 100%;
+}
+h1, h2, h3{
+ text-transform: uppercase;
+}
+ ul{
+ text-transform: capitalize;
+}
+p{
+ text-transform: initial;
+}
+
+.left-head{
+padding: 70px 50px;
+width: 50%;
+background-color: rgb(26, 78, 138);
+color: white;
+}
+.right-head{
+padding: 30px 40px;
+width: 50%;
+
+}
+.contact{
+ width: 70%;
+ background-color: rgb(26, 78, 138);
+ color: white;
+
+ margin-bottom: 30px;
+}
+.icon-1{
+ color:rgb(26, 78, 138);
+ padding-right: 20px;
+}
+.section-1{
+ display: flex;
+ width: 100%;
+ padding: 0 30px;
+}
+.aside-1{
+ width: 50%;
+ padding: 40px 30px;
+}
+.aside-1 h2{
+ color:rgb(26, 78, 138) ;
+}
+.aside-2{
+ width: 50%;
+ background-color:rgb(26, 78, 138);
+ color: #fcfcfc;
+ padding: 40px 30px;
+}
+.profile{
+ margin-bottom: 20px;
+}
+.h2{
+ margin: 30px 0;
+}
+span{
+ margin-left: 30px;
+}
+.h3{
+ margin-top: 20px;
+ font-size: 18px;
+ 
+}
+.company{
+ font-weight: bold;
+ padding-bottom: 5px;
+}
+.education{
+ margin-bottom: 30px;
+}
+.year{
+ font-weight: bold;
+}
+.school{
+ margin-top: 5px;
+}
+.icon-2{
+ font-size: 30px;
+ margin-right: 10px;
+}
